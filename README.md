@@ -6,7 +6,7 @@ A simple URL shortener built with a Python Flask API, PostgreSQL, and Redis. It 
 
 - Python
 - Flask
-- PostgreSQL
+- PostgreSQL (Not NoSQL because data is highly structured and permits ACID transactions).
 - Redis
 
 ## Getting Started
